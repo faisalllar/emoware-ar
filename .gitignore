@@ -14,10 +14,6 @@ data/fer2013.zip
 # Models
 models/*.h5
 
-# Results
-results/*.png
-results/*.json
-
 # Python
 __pycache__/
 *.py[cod]

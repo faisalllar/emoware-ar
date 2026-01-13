@@ -1,0 +1,37 @@
+[
+  {
+    "iteration": 1,
+    "level": 1,
+    "emotion": "Anxious",
+    "correct": false,
+    "action": "ANXIETY_RELIEF"
+  },
+  {
+    "iteration": 2,
+    "level": 1,
+    "emotion": "Focused",
+    "correct": false,
+    "action": "CONTINUE"
+  },
+  {
+    "iteration": 3,
+    "level": 1,
+    "emotion": "Anxious",
+    "correct": true,
+    "action": "CONTINUE"
+  },
+  {
+    "iteration": 4,
+    "level": 1,
+    "emotion": "Anxious",
+    "correct": true,
+    "action": "CONTINUE"
+  },
+  {
+    "iteration": 5,
+    "level": 1,
+    "emotion": "Focused",
+    "correct": true,
+    "action": "MASTERY_CHECK"
+  }
+]
