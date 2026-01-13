@@ -1,0 +1,39 @@
+# ========== DATA - DON'T PUSH ==========
+data/*.npy          #IMPORTANT: Ignore all numpy data files
+data/X_train.npy
+data/X_test.npy
+data/X_val.npy
+data/y_train.npy
+data/y_test.npy
+data/y_val.npy
+
+# Data
+data/fer2013.csv
+data/fer2013.zip
+
+# Models
+models/*.h5
+
+# Results
+results/*.png
+results/*.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
